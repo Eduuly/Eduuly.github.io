@@ -1,0 +1,59 @@
+body{
+	background-color: #FADBD8;
+}
+
+h1{
+	font-family: 'Great Vibes', cursive;
+	font-size: 40px;
+	color: #F5B7B1;
+	text-shadow: 0 0 5px #EC7063, 0 0 10px #EC7063, 0 0 05px #EC7063, 0 0 10px #EC7063, 0 0 15px #EC7063, 0 0 20px #EC7063, 0 0 25px #E74C3C;
+}
+
+.texto{
+	margin: 15px;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-size: 20px;
+	color: #F5B7B1;
+	text-shadow: -1px -1px 0 #CD6155, 1px -1px 0 #CD6155, -1px 1px 0 #CD6155, 1px 1px 0 #CD6155;
+	text-align: justify-all;
+}
+
+.introduccion{
+	display: block;
+     padding: 22px;
+     margin: 7px 7px 0 20px;
+     grid-column: 5/10;
+     grid-row: 1/2;
+     background: #FADBD8;
+     border-radius: 25px 25px 25px 25px;
+     border: solid #EC7063;
+     box-shadow: 0 0 5px #F1948A, 0 0 10px #F1948A, 0 0 05px #F1948A, 0 0 10px #F1948A, 0 0 15px #F1948A, 0 0 20px #F1948A, 0 0 25px #F1948A;
+}
+
+.fotos img{
+	width: 140px;
+  	margin: 5px;
+  	border-radius: 20px;
+  	box-shadow: 0 0 5px #F1948A, 0 0 10px #F1948A, 0 0 05px #F1948A, 0 0 15px #F1948A, 0 0 15px #F1948A, 0 0 25px #F1948A, 0 0 25px #F1948A;
+}
+
+iframe{
+	box-shadow: 0 0 5px #F1948A, 0 0 10px #F1948A, 0 0 05px #F1948A, 0 0 15px #F1948A, 0 0 15px #F1948A, 0 0 25px #F1948A, 0 0 25px #F1948A;
+}
+
+div{
+	display: block;
+     padding: 22px;
+     margin: 7px 7px 0 20px;
+     grid-column: 5/10;
+     grid-row: 1/2;
+     background: #FADBD8;
+     border-radius: 50px 50px 50px 50px;
+     border: solid #EC7063;
+     box-shadow: 0 0 5px #F1948A, 0 0 10px #F1948A, 0 0 05px #F1948A, 0 0 10px #F1948A, 0 0 15px #F1948A, 0 0 20px #F1948A, 0 0 25px #F1948A;
+}
+
+fieldset{
+	border: none;
+}
+
